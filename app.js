@@ -4,7 +4,7 @@
 let play_btn = document.getElementById("play-button");
 // console.log(play_btn)
 
-play_btn.onclick= () =>{
+play_btn.onclick=()=>{
     window.location.href = "game.html"
 }
 
